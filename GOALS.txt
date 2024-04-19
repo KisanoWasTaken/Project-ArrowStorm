@@ -1,0 +1,5 @@
+Current Aims:
+
+-Add a tutorial page for beat and mod charting. STATUS : BEGUN
+-Improve the landing page. STATUS : PENDING
+-Add a basic forums function. STATUS : POSTPONED DUE TO LACK OF KNOWLEDGE
