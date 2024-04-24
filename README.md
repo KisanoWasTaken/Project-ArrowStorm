@@ -2,9 +2,9 @@
 >
 >**There is no guarantee that this project will ever get released due to the difficulty of the task and the scale of the dev team (Literally one single teenage boy who happens to love Stepmania and NotITG.). However, I will be happy to accept *any* additions, no matter how <sub>small</sub>.**
 
-# **Project Arrow Storm**
+# **Project ArrowStorm**
 
-Project Arrow Storm is a passion driven project that aims to create a hub for the Stepmania and ITG communities! It's also aims to solve a few problems between them.
+Project ArrowStorm is a passion driven project that aims to create a hub for the Stepmania and ITG communities! It's also aims to solve a few problems between them.
 
 ## So, what's this about?
 
