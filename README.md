@@ -18,8 +18,8 @@ Feel free to! I'm operating on a basis of pull and commit, to prevent any unwant
 
 Download VSCode. Once its installed, go to extensions and download the following:
 
--HTML CSS Support EXTENSION ID: ecmel.vscode-html-css
--JavaScript (ES6) code snippets EXTENSION ID: 	xabikos.JavaScriptSnippets
--Live server EXTENSION ID: ritwickdey.LiveServer
+- HTML CSS Support EXTENSION ID: ecmel.vscode-html-css
+- JavaScript (ES6) code snippets EXTENSION ID: 	xabikos.JavaScriptSnippets
+- Live server EXTENSION ID: ritwickdey.LiveServer
 
 
