@@ -1,0 +1,18 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: black;
+}
+
+.content{
+    color: white;
+}
+
+.linksthrsite{
+    color: red;
+}
+
+.linkbar{
+    color:lightblue;
+}
