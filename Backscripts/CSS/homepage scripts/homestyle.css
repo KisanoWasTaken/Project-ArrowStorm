@@ -9,10 +9,9 @@ body{
     color: white;
 }
 
-.linksthrsite{
-    color: red;
-}
-
-.linkbar{
+.navbar{
     color:lightblue;
+}
+.navbar, a{
+    color:red;
 }
