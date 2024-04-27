@@ -1,7 +1,6 @@
 Current Aims:
 
--Add a tutorial page for beat and mod charting. STATUS : BEGUN
+-Add a tutorial page for beat and mod charting. STATUS : ONGOING BUT DEPRIORITISED BY LANDING PAGE
 -Improve the landing page. STATUS : PENDING
 -Add a basic forums function. STATUS : POSTPONED DUE TO LACK OF KNOWLEDGE
--Get others to try and help out STATUS. : FINISHED
--Redesign the current logo. STATUS : IN PROGRESS
+-Redesign the current logo. STATUS : PHASE 1 DONE. PHASE 2 IN PROGRESS
