@@ -4,7 +4,7 @@
 
 # **Project ArrowStorm**
 
-Project ArrowStorm is a passion driven project that aims to create a hub for the Stepmania and ITG communities! It's also aims to solve a few problems between them.
+Project ArrowStorm is a passion driven 2000s style love letter project that aims to create a hub for the Stepmania and ITG communities! It's also aims to solve a few problems between them.
 
 ## So, what's this about?
 
